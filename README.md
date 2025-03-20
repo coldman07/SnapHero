@@ -28,4 +28,4 @@
 3.For detailed help, use:
 ```bash
   python snaphero.py -h
-k
+
