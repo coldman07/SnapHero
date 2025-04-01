@@ -24,7 +24,3 @@
 2. **Usage:**
    ```bash
    python snaphero.py --url https://www.example.com --output example.png --full-page --delay 2 --viewport-width 1440 --viewport-height 900
-
-3.For detailed help, use:
-   ```bash
-        python snaphero.py 
